@@ -1,0 +1,8 @@
+{
+  "name": "LibG Memory Leak",
+  "description": "Memory leak test script",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Debug Menu",
+  "description": "Inject debug button and debug menu into game UI",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Gene Brawl Public",
+  "description": "A frida-based modification for Brawl Stars.",
+  "tags": [
+    "android",
+    "ios"
+  ],
+  "authors": ["RomashkaTea", "hpdevfox", "myBSnotE"]
+}

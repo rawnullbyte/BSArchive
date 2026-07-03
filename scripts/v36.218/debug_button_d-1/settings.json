@@ -1,0 +1,8 @@
+{
+  "name": "Debug Button D-1",
+  "description": "Patch game function at specific offset",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

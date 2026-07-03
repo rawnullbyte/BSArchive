@@ -1,0 +1,10 @@
+{
+  "name": "Key Deobfuscator 2",
+  "description": "Deobfuscate SPK keys",
+  "tags": [
+    "android"
+  ],
+  "authors": [
+    "DemirCnq"
+  ]
+}

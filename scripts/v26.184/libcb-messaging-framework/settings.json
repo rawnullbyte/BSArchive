@@ -1,0 +1,8 @@
+{
+  "name": "LibCB Framework",
+  "description": "Full messaging framework with ByteStream, Buffer, RPC",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

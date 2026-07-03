@@ -1,0 +1,8 @@
+{
+  "name": "Core Crypto",
+  "description": "Intercept crypto operations and redirect network connection",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

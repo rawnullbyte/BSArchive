@@ -1,0 +1,10 @@
+{
+  "name": "Kubune Test",
+  "description": "Frida learning/test script",
+  "tags": [
+    "android"
+  ],
+  "authors": [
+    "kubune"
+  ]
+}

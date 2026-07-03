@@ -1,0 +1,8 @@
+{
+  "name": "BSD Mod",
+  "description": "Mod with libc file operations (access, mkdir)",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "bsarchive",
+  "version": "1.0.0",
+  "description": "Brawl Stars Frida Scripts Archive",
+  "scripts": {
+    "build": "node generate.js && npm --prefix website run build",
+    "serve": "serve dist -l 3000",
+    "dev": "npm run build && serve dist -l 3000"
+  },
+  "keywords": [
+    "brawl-stars",
+    "frida",
+    "scripts"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}

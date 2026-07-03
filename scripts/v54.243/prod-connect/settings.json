@@ -1,0 +1,8 @@
+{
+  "name": "Prod Connect",
+  "description": "Intercept production connection",
+  "tags": [
+    "android"
+  ],
+  "authors": []
+}

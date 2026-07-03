@@ -1,0 +1,10 @@
+{
+  "name": "UnknowLib Mod",
+  "description": "Mod with libg initialization",
+  "tags": [
+    "android"
+  ],
+  "authors": [
+    "unknowlib"
+  ]
+}

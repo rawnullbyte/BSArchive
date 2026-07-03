@@ -1,0 +1,10 @@
+{
+  "name": "SWF Dumper iOS",
+  "description": "Dump SWF textures from iOS laser module",
+  "tags": [
+    "ios"
+  ],
+  "authors": [
+    "Shei-Bi"
+  ]
+}
