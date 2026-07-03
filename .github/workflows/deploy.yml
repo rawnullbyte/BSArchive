@@ -28,7 +28,6 @@ jobs:
       - run: node generate.js
       - run: npm run build
         working-directory: website
-      - run: echo "bsarchive.nullbyte.rip" > website/dist/CNAME
       - uses: actions/upload-pages-artifact@v3
         with:
           path: website/dist
