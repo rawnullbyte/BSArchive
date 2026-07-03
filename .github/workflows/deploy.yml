@@ -30,7 +30,7 @@ jobs:
         working-directory: website
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: website/dist
+          path: dist
 
   deploy:
     needs: build
