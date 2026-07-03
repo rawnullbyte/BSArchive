@@ -22,11 +22,16 @@ jobs:
         with:
           node-version: 20
           cache: npm
+          cache-dependency-path: website/package-lock.json
       - run: npm ci
+        working-directory: website
+      - run: node generate.js
       - run: npm run build
+        working-directory: website
+      - run: echo "bsarchive.nullbyte.rip" > website/dist/CNAME
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: website/dist
 
   deploy:
     needs: build
