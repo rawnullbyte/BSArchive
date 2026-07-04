@@ -1,8 +1,8 @@
 {
   "name": "BSD Mod",
-  "description": "Mod with libc file operations (access, mkdir)",
+  "description": "You guessed it",
   "tags": [
     "android"
   ],
-  "authors": []
+  "authors": ["BSD Team"]
 }
