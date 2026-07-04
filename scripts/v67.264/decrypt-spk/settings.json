@@ -1,0 +1,8 @@
+{
+  "name": "Decrypt SPK",
+  "description": "Decrypt server public key",
+  "tags": [
+    "android"
+  ],
+  "authors": ["DemirCnq"]
+}

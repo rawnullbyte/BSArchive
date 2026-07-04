@@ -1,0 +1,8 @@
+{
+  "name": "Get Tokens",
+  "description": "Extracts session and player token used for auth",
+  "tags": [
+    "android"
+  ],
+  "authors": ["NullByte", "pri.nter", "S.B.", "risporce"]
+}
